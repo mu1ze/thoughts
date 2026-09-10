@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thoughts.dvlli.com/sitemap.xml
